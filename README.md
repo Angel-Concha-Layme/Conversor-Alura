@@ -27,6 +27,13 @@ Este proyecto, titulado "Conversor de monedas", es una aplicación que proporcio
 3. En la interfaz de usuario, selecciona la moneda de origen y la moneda de destino.
 4. Los valores se generan automaticamente. 
 
+# Demostracion
+
+![Conversor de divisar ](/static/img/setup1.jfif)
+![Conversor de divisar ](/static/img/setup2.jfif)
+![Conversor de divisar ](/static/img/setup3.jfif)
+![Conversor de divisar ](/static/img/setup4.jfif)
+
 
 # Requisitos
 - JDK 8 o superior
