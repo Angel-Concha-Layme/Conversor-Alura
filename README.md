@@ -8,7 +8,10 @@ Un proyecto que permite a los usuarios convertir diferentes monedas utilizando l
 # Descripcion
 Este proyecto, titulado "Conversor de monedas", es una aplicación que proporciona la funcionalidad de convertir divisas. La aplicación utiliza dos APIs separadas, una para obtener los datos más recientes de conversión de monedas y otra para recuperar las banderas correspondientes a los países de cada moneda. La interfaz de usuario se ha implementado utilizando Java Swing, proporcionando una experiencia de usuario intuitiva y amigable.
 
+# Diseño
+![Diseño](/static/img/figma.jfif)
 
+[Figma](https://www.figma.com/file/Kd3Rm5gfbg5bGLjphlCUJD/Conversor-Alura?type=design&node-id=0:1&mode=design&t=wbyggGo8mx0hu2C0-1)
 
 # Tecnologias utilizadas
 - Java: lenguaje de programación principal utilizado para desarrollar la funcionalidad del proyecto.
